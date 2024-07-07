@@ -1,5 +1,4 @@
 #支持私库
-jimmylang74/opengrok-22.04:latest
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
