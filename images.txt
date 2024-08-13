@@ -4,3 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 xhofe/alist:latest
 cym1102/nginxwebui:latest
+jeessy/ddns-go:latest
